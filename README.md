@@ -5,12 +5,6 @@ For these photos I've used [VoTT Photo Tagging tool](https://github.com/Microsof
 
 ![](screenshots/objectdetectionpipeline.png)
 
-In order to run this notebook you need to install custom vision api
-
-```pip install azure-cognitiveservices-vision-customvision```
-
-This jupyter notebook helps you to upload all your photos with ROIs(Region of Interest) to apply end to end object detection pipeline.
-
 After trained model you'll be able to predict your objects.
 ![](screenshots/objectdetection.png)
 
